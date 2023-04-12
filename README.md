@@ -1,4 +1,4 @@
-# Course Intermediate React v5 --> TAILWIND & HOOKS <--
+# Course Intermediate React v5 -->TAILWIND & HOOKS<--
 
 
 https://frontendmasters.com/courses/intermediate-react-v5/
